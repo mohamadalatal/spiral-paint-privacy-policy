@@ -1,4 +1,4 @@
-
+theme: mjekyll-theme-time-machine
 Privacy Policy for Spiral Paint
 
 Effective Date: January 1, 2024
